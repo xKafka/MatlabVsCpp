@@ -1,0 +1,3 @@
+C:/Users/kafka/OneDrive/Desktop/Zadanie 6/cmake-build-debug/CMakeFiles/Zadanie_8.dir
+C:/Users/kafka/OneDrive/Desktop/Zadanie 6/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/kafka/OneDrive/Desktop/Zadanie 6/cmake-build-debug/CMakeFiles/rebuild_cache.dir

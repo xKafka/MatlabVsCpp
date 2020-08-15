@@ -1,0 +1,68 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/kafka/OneDrive/Desktop/Zadanie 6/LUP.h
+vector
+-
+cmath
+-
+iostream
+-
+stl_matrix.h
+C:/Users/kafka/OneDrive/Desktop/Zadanie 6/stl_matrix.h
+Matrix.h
+C:/Users/kafka/OneDrive/Desktop/Zadanie 6/Matrix.h
+LUPDecompose.h
+C:/Users/kafka/OneDrive/Desktop/Zadanie 6/LUPDecompose.h
+
+C:/Users/kafka/OneDrive/Desktop/Zadanie 6/LUPDecompose.h
+iostream
+-
+vector
+-
+cmath
+-
+stdexcept
+-
+Matrix.h
+C:/Users/kafka/OneDrive/Desktop/Zadanie 6/Matrix.h
+
+C:/Users/kafka/OneDrive/Desktop/Zadanie 6/Matrix.h
+vector
+-
+functional
+-
+iostream
+-
+
+C:/Users/kafka/OneDrive/Desktop/Zadanie 6/main.cpp
+iostream
+-
+chrono
+-
+random
+-
+fstream
+-
+Matrix.h
+C:/Users/kafka/OneDrive/Desktop/Zadanie 6/Matrix.h
+stl_matrix.h
+C:/Users/kafka/OneDrive/Desktop/Zadanie 6/stl_matrix.h
+LUP.h
+C:/Users/kafka/OneDrive/Desktop/Zadanie 6/LUP.h
+
+C:/Users/kafka/OneDrive/Desktop/Zadanie 6/stl_matrix.h
+algorithm
+-
+iostream
+-
+random
+-
+Matrix.h
+C:/Users/kafka/OneDrive/Desktop/Zadanie 6/Matrix.h
+
